@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/ferrazpedro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ferrazpedro&show_icons=true&theme=gruvbox&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ferrazpedro&show_icons=true&theme=gruvbox&count_private=true" />
 </a>
 <a href="https://github.com/ferrazpedro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferrazpedro&layout=compact&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferrazpedro&layout=compact&theme=gruvbox" />
 </a>
 <a href="https://wakatime.com/@ferrazpedro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ferrazpedro&layout=compact&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ferrazpedro&layout=compact&theme=gruvbox" />
 </a>
