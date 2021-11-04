@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![ferrazpedro's languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrazpedro&layout=compact&theme=gruvbox)](https://github.com/ferrazpedro)
 [![ferrazpedro's github stats](https://github-readme-stats.vercel.app/api?username=ferrazpedro&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/ferrazpedro)
 [![ferrazpedro's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ferrazpedro&layout=compact&theme=gruvbox)](https://wakatime.com/@ferrazpedro)
