@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="">
+<a href="https://github.com/ferrazpedro">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ferrazpedro&show_icons=true&theme=gruvbox&count_private=true" />
 </a>
-<a href="">
+<a href="https://wakatime.com/@ferrazpedro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ferrazpedro&theme=gruvbox" />
 </a>
