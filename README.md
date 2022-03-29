@@ -13,5 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![ferrazpedro's github stats](https://github-readme-stats.vercel.app/api?username=ferrazpedro&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/ferrazpedro)
-[![ferrazpedro's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ferrazpedro&theme=gruvbox)](https://wakatime.com/@ferrazpedro)
+<a href="https://github.com/ferrazpedro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ferrazpedro&show_icons=true&theme=gruvbox&count_private=true" />
+</a>
+<a href="https://github.com/ferrazpedro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferrazpedro&theme=gruvbox&layout=compact" />
+</a>
